@@ -1,0 +1,7 @@
+this is first line
+
+<<<<<<< HEAD
+Editing for branch feature1
+=======
+Edidting for feature2 branch
+>>>>>>> feature2
